@@ -10,3 +10,7 @@ This is a collection of tools and educational resources for Cyber Security worke
 
 Unless specifically stated I am not affiliated with anything linked or referenced. Please be careful with external links. 
 
+{% hint style="warning" %}
+Unless specifically stated I am not affiliated with anything linked or referenced. Please be careful with external links. 
+{% endhint %}
+
