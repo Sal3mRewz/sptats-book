@@ -4,8 +4,8 @@
 
 ## Learning Resources
 
-* [Paid and Licensed](learning-resources/paid-and-licensed.md)
 * [Free and Open Source](learning-resources/free-open-source.md)
+* [Paid and Licensed](learning-resources/paid-and-licensed.md)
 
 ## Tools
 
