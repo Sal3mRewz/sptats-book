@@ -4,7 +4,7 @@ description: >-
   Teams both Red and Blue
 ---
 
-# Purple Team Tools and Techniques.
+# Sal3mRewz's Purple Team Tools and Techniques.
 
 This is a collection of tools and educational resources for Cyber Security workers and students. 
 

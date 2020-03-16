@@ -1,8 +1,13 @@
 # Table of contents
 
-* [Purple Team Tools and Techniques.](README.md)
+* [Sal3mRewz's Purple Team Tools and Techniques.](README.md)
 
 ## Learning Resources
 
-* [Learning Resources](learning-resources/learning-resources.md)
+* [Paid and Licensed](learning-resources/paid-and-licensed.md)
+* [Free and Open Source](learning-resources/free-open-source.md)
+
+## Tools
+
+* [Untitled](tools/untitled.md)
 
