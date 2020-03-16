@@ -8,7 +8,7 @@ description: >-
 
 This is a collection of tools and educational resources for Cyber Security workers and students. 
 
-Unless specifically stated I am not affiliated with anything linked or referenced. Please be careful with external links. 
+The information here is a collection I have decided to share, I offer no warranty and make no claim to any of the projects. 
 
 {% hint style="warning" %}
 Unless specifically stated I am not affiliated with anything linked or referenced. Please be careful with external links. 
