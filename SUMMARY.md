@@ -7,9 +7,11 @@
 * [Free and Open Source](learning-resources/free-open-source.md)
 * [Paid and Licensed](learning-resources/paid-and-licensed.md)
 
-## Wired Tools
+## Tools
 
-* [Attack/Penetration Testing](wired-tools/attack-penetration-testing.md)
-* [Analytics, Analysis, Investigation and Defence Tools.](wired-tools/untitled.md)
-* [OSSINT and Recon](wired-tools/ossint-and-recon.md)
+* [Bluetooth and BLE](tools/bluetooth-and-ble.md)
+* [Attack/Penetration Testing](tools/attack-penetration-testing.md)
+* [Analytics, Analysis, Investigation and Defence Tools.](tools/untitled.md)
+* [NFC](tools/nfc.md)
+* [OSSINT and Recon](tools/ossint-and-recon.md)
 
