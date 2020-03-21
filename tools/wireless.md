@@ -22,8 +22,6 @@ _Geo location mapping of wifi networks_
 
 • Add Cookie+ - Browser plugin - like tamper data 
 
-
-
 • AirPWN - Hotspot injection attack 
 
 • AIrtun - NG \( aircrack - ng tools\)  
@@ -50,8 +48,6 @@ _Geo location mapping of wifi networks_
 
 • beacongraph - as airgraph but more modern 
 
-
-
 • Sniffair python peap password spray 
 
 • Asleap - LEAP pw cracking 
@@ -68,22 +64,7 @@ _Geo location mapping of wifi networks_
 
 • Hcitool • Ubertooth one, HackRF one, \(Great scott gadgets\) \# 
 
-• BlueScanner \(Windows\) BT wardriving 
-
-• BTScanner Linux - BT Wardriving 
-
-• Bluetooth scanner for android BT Wardriving 
-
-• BLE Scanner for iOS \(BLE only\) iOS - BT Wardriving 
-
-• Bluetooth Stack Smasher 
-
-• ADAFruit BLE Sniffer/Friend 
-
-• Nordic NRF Connect \(iOS, Android app\) BT discovery, exploration 
-
-• NCC Groups BLE Tool Suite - BLE Replay Crackle - pin brute force for BLE Scapy - Packet crafting BLEAH - BLE Fuzzing \(Moved to bettercap BLEAH - BLE Fuzzing \(Moved to bettercap\) • BETTERCAP • Apple\_bleee \(linux tool\)  
-• Keysy - small close range card copier • NFCProxy \(Eddie Lee\)  
+  
 
 
 • NFC Tag Cloner - Android   
