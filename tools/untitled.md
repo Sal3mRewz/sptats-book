@@ -22,7 +22,15 @@ GRR: Rapid Response and incident reponse framework for live forensics.
 
 A modular incident response framework in Powershell. It's been tested in PSv2 / .NET 2 and later and works mostly without issue.
 
-[https://github.com/davehull/Kansa](https://github.com/davehull/Kansa)
+[https://github.com/davehull/Kansa](https://github.com/davehull/Kansa)  
+  
+**WAZUH:** _Open Source SIEM_  
+  
+An Open Source fork of OSSEC - using the Elastic Stack for data storage.   
+  
+[https://wazuh.com/](https://wazuh.com/)
+
+
 
 \*\*\*\*
 
